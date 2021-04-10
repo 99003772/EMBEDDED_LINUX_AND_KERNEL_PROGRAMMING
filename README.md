@@ -1,0 +1,2 @@
+# EMBEDDED_LINUX_AND-KERNEL_PROGRAMMING
+Hands on and activities 
